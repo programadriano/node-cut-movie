@@ -2,8 +2,7 @@
 Esse projeto foi criado para demonstrar como nós podemos fazer downgrade de um vídeo utilizando o FFMPEG e o Node.js
 
 ## Requisitos
-Ter instalado o Node.js 
-Ter instalado o TypeScript 
+Ter instalado o Node.js e o TypeScript no seu computador
 
 ## Comandos
 
